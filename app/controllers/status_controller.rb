@@ -1,0 +1,3 @@
+class StatusController < ApplicationController
+  
+end
